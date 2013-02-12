@@ -1,0 +1,12 @@
+<p><form name="input" action="logme.cgi" method="post">
+Who did/will I call? <input type="text" name="entity" size="50" maxlength="100"><br />
+Phone Number: <input type="text" name="num" size="15" maxlength="15"><br />
+Time of call: <input type="text" name="time" size="7"><br />
+Subject of call: <input type="text" name="subject" size="50"><br />
+Result of call: <input type="text" name="result" size="50"><br />
+Note of pertinent facts before call: <input type="text" name="prenote"><br />
+Notes after the call: <input type="text" name="note"><br />
+<input type="hidden" name="end" value="1">
+<input type="submit" value="Submit">
+</form>
+</p>

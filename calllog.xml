@@ -1,0 +1,35 @@
+<log>
+
+<call>
+</call>
+	<call id="1215722122">
+		<entity>First Imaginary Church of Crestview
+		<number>(850)689-0000
+		<date>
+			<year>2008</year>
+			<month>07</month>
+			<day>10</day>
+		</date>
+		<time>15:35</time>
+		<subject>Asking to speak to the imaginary preacher of the church while making a long entry for the XML file.</subject>
+		<result>Secretary said she would pass my information on to the person in charge of Web site matters.</result>
+		<prenote>Slim chance, actually none, because of the imaginary thing.</prenote>
+		<note>Testing bad characters: &lt;+&gt;=%$</note>
+		<hr />
+	</call>
+	<call id="1215722323">
+		<entity>Another test church, not real
+		<number>(850)682-0000
+		<date>
+			<year>2008</year>
+			<month>07</month>
+			<day>10</day>
+		</date>
+		<time>15:36</time>
+		<subject>Testing out the script again  trying to use some bad characters, too.</subject>
+		<result>This call went well, in my slightly addled mind. ;-P</result>
+		<prenote>No facts bear on this &quot;call&quot;.</prenote>
+		<note>Other bad characters include &apos;%&apos; and &lt;/note&gt;&lt;/call&gt;&lt;/entity&gt;bad code here</note>
+		<hr />
+	</call>
+</log>
